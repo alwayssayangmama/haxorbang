@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap:https://directcs.lemmaeof.gay/amp/m.html/sitemap.xml
